@@ -4,8 +4,6 @@ import org.hse.example.service.NearestTickets;
 import org.hse.example.service.TicketCounterServiceImpl;
 import org.hse.example.service.TicketServiceBuilder;
 
-import java.util.Optional;
-
 /**
  * Реализация примера со счастливыми билетами
  */
